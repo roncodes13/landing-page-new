@@ -255,8 +255,8 @@ nav {
   flex: 1;
   gap: 1rem;
   justify-content: center;
-  margin-top: 2rem;
-  margin-left: -900px;
+  margin-top: -8rem;
+  margin-left: -713px;
 }
 .nav__btns_cta .btn_cta {
   padding: 0.75rem 2rem;
